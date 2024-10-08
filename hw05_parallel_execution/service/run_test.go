@@ -1,4 +1,4 @@
-package hw05parallelexecution
+package service
 
 import (
 	"errors"
